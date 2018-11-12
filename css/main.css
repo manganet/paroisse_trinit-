@@ -65,8 +65,8 @@
   }
 }
 
-@media (max-width: 659px) {
+@media (max-width: 375px) {
   a.brand-logo.active {
-    font-size: 200%;
+    font-size: 100%;
   }
 }
