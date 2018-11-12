@@ -63,7 +63,9 @@
   .main-header {
     height: 50vh;
   }
+}
 
+@media (max-width: 659px) {
   a.brand-logo.active {
     font-size: 200%;
   }
